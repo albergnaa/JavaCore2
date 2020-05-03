@@ -32,5 +32,6 @@ public class Main {
         }
         long result = arrayUtils.arraySum(objects);
         System.out.println(result);
+
     }
 }
